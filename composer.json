@@ -1,0 +1,15 @@
+{
+    "name": "adam/php-composer",
+    "description": "A basic example of using PHP Composer.",
+    "type": "project",
+    "require": {
+        "smottt/wideimage": "^1.1.4",
+        "dompdf/dompdf": "^1.2.0"
+    },
+    "authors": [
+        {
+            "name": "Adam Thomas",
+            "email": "thomasadam83@hotmail.com"
+        }
+    ]
+}
