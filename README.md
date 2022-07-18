@@ -1,4 +1,5 @@
-# php-composer
+# A Basic Introduction to PHP and Composer
+
 A basic example of using Composer to manage PHP packages.
 
 Follow these steps to install Composer:
