@@ -8,21 +8,21 @@ Follow these steps to install Composer:
 
 1. Using the command line, download Composer:
 
-```sh
-php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
-```
+    ```sh
+    php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+    ```
 
 2. Instal the download:
-
-```sh
-php composer-setup.php
-```
+    
+    ```sh
+    php composer-setup.php
+    ```
 
 3. Then delete the original download:
-
-```sh
-php -r "unlink('composer-setup.php');"
-```
+    
+    ```sh
+    php -r "unlink('composer-setup.php');"
+    ```
 
 At this point Composer will work, but only in this folder. So we want to move Composer so that the ```composer``` command will work from any folder using the Command Line.
 
